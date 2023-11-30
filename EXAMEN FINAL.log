@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\juanb\OneDrive\Escritorio\FCFM\Tercer semestre\EXAMEN FINAL\EXAMEN FINAL\EXAMEN FINAL\Source.cpp(57,2): warning C4002: hay demasiados argumentos para la invocación de macro "RtlZeroMemory" de tipo función
+C:\Users\juanb\OneDrive\Escritorio\FCFM\Tercer semestre\EXAMEN FINAL\EXAMEN FINAL\EXAMEN FINAL\Source.cpp(311,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\juanb\OneDrive\Escritorio\FCFM\Tercer semestre\EXAMEN FINAL\EXAMEN FINAL\EXAMEN FINAL\Source.cpp(323,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  EXAMEN FINAL.vcxproj -> C:\Users\juanb\OneDrive\Escritorio\FCFM\Tercer semestre\EXAMEN FINAL\EXAMEN FINAL\x64\Debug\EXAMEN FINAL.exe
